@@ -1,2 +1,3 @@
 add local text
 add remote text
+ignore
